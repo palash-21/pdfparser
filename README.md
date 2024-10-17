@@ -20,4 +20,5 @@ Finally i used PyMuPDF for extracting texts and images, tabula-py for extracting
 # Scope of improvemnet :
 - Categorizing textual data into headers, sub-titles, footers using font style as well as font-size.
 - Use OCR for image recognition.
-- Convert each page to image using pdf2image and then using AI to extract data from the pages. 
+- Convert each page to image using pdf2image and then using AI to extract data from the pages.
+- For large pdfs process multiple pages in parallel to reduce the execution time considereably.
