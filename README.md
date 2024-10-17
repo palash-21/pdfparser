@@ -2,8 +2,8 @@
 Extract information from pdf like Headers, Paragraphs, Tables, Images, Footers
 
 # TO run the file , need to install pymupdf and tabula in your python3 env
-pip install pymupdf
-pip install tabula-py
+- pip install pymupdf
+- pip install tabula-py
 
 # Keep your pdf file in the same directory as the python file or provide the full path when asked for file
 # Give file as input to the script, default document.pdf
