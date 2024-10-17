@@ -6,9 +6,10 @@ Extract information from pdf like Headers, Paragraphs, Tables, Images, Footers
 - pip install tabula-py
 
 # Keep your pdf file in the same directory as the python file or provide the full path when asked for file
-# Give file as input to the script, default document.pdf
-# The output will be stored in json format in a json file
-# The images and tables (csv) will also be stored in a folder with same name as the pdf
+- I have kept both the notebook and python file option
+- Give file as input to the script, default document.pdf
+- The output will be stored in json format in a json file
+- The images and tables (csv) will also be stored in a folder with same name as the pdf
 
 # Tools used :
 There wide range of tools available to extract text, tables, images from pdf.
