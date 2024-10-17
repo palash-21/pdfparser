@@ -1,11 +1,11 @@
 # pdfparser
 Extract information from pdf like Headers, Paragraphs, Tables, Images, Footers
 
-# TO run the file , need to install pymupdf and tabula in your python3 env
+# To run the file , need to install pymupdf and tabula in your python3 env
 - pip install pymupdf
 - pip install tabula-py
 
-# Keep your pdf file in the same directory as the python file or provide the full path when asked for file
+- Keep your pdf file in the same directory as the python file or provide the full path when asked for file
 - I have kept both the notebook and python file option
 - Give file as input to the script, default document.pdf
 - The output will be stored in json format in a json file
