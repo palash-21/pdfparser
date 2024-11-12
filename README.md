@@ -19,7 +19,6 @@ Finally i used PyMuPDF for extracting texts and images, tabula-py for extracting
   - Tabula : It works well for both structured tables with gridlines and unstructured tables without gridlines.
 
 # Scope of improvemnet :
-- I have used font size for categorizing textual data into headers, sub-titles, footers, etc. Instead using font style as well as font-size.
 - Use OCR for image recognition.
 - Include processing secured document by taking password from user. 
 - Convert each page to image using pdf2image and then using AI to extract data from the pages.
